@@ -608,6 +608,10 @@ h1, h2, h3, h4, h5,
       width: 100%;
     }
 
+    .extratop {
+      padding-top: 100px;
+    }    
+
 /* Blocks */
 .site-blocks-cover {
   background-size: cover;

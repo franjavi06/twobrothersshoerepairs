@@ -96,10 +96,12 @@ class Navbar extends React.Component {
         
               var st = $(this).scrollTop();
         
-              if (st > 100) {
+              if (st > 80) {
                 $('.js-sticky-header').addClass('shrink');
+                $('.contentj').addClass('extratop');
               } else {
                 $('.js-sticky-header').removeClass('shrink');
+                $('.contentj').removeClass('extratop');
               }
         
             }) 

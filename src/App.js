@@ -47,6 +47,7 @@ function App() {
     <div className="site-wrap">
       <TopBar></TopBar>
       <Navbar></Navbar>
+      <div className="contentj">
       <Switch>
         <Route exact path="/" component={Home}/>
         <Route exact path="/products/" component={Products}/>
@@ -54,7 +55,8 @@ function App() {
         <Route exact path="/about/" component={About}/>
         <Route exact path="/contact/" component={Contact}/>
         <Route component={Error}/>
-      </Switch>
+      </Switch>        
+      </div>
       <Footer></Footer>
     </div>
     </>
