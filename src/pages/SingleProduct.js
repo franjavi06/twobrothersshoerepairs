@@ -25,16 +25,16 @@ export default function SingleProduct() {
                 </div>
 
 <div className="mb-1 d-flex">
-<label for="option-sm" className="d-flex mr-3 mb-3">
+<label htmlFor="option-sm" className="d-flex mr-3 mb-3">
 <span className="d-inline-block mr-2 sizestyle"><input type="radio" id="option-sm" name="shop-sizes"/></span> <span className="d-inline-block text-black">Small</span>
 </label>
-<label for="option-md" className="d-flex mr-3 mb-3">
+<label htmlFor="option-md" className="d-flex mr-3 mb-3">
 <span className="d-inline-block mr-2 sizestyle"><input type="radio" id="option-md" name="shop-sizes"/></span> <span className="d-inline-block text-black">Medium</span>
 </label>
-<label for="option-lg" className="d-flex mr-3 mb-3">
+<label htmlFor="option-lg" className="d-flex mr-3 mb-3">
 <span className="d-inline-block mr-2 sizestyle"><input type="radio" id="option-lg" name="shop-sizes"/></span> <span className="d-inline-block text-black">Large</span>
 </label>
-<label for="option-xl" className="d-flex mr-3 mb-3">
+<label htmlFor="option-xl" className="d-flex mr-3 mb-3">
 <span className="d-inline-block mr-2 sizestyle"><input type="radio" id="option-xl" name="shop-sizes"/></span> <span className="d-inline-block text-black"> Extra Large</span>
 </label>
 </div>                
