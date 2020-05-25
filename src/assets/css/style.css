@@ -602,6 +602,12 @@ h1, h2, h3, h4, h5,
     padding-top: 10px !important;
     padding-bottom: 10px !important; }
 
+    .shrink {
+      position: fixed;
+      top: 0;
+      width: 100%;
+    }
+
 /* Blocks */
 .site-blocks-cover {
   background-size: cover;
