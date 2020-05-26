@@ -40,7 +40,7 @@ export default function SingleProduct() {
 </div>                
 
                 <div className="mb-5">
-                    <div className="input-group mb-3 anchomax">
+                    <div className="input-group mb-3">
                         <div className="input-group-prepend">
                             <button className="btn btn-outline-dark js-btn-minus" type="button">−</button>
                         </div>
