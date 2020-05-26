@@ -13,7 +13,7 @@ export default function MainSlider() {
                                     
                         <div className="row mb-4">
                             <div className="col-md-7">
-                                <h1>Shoe Repairs - Online Shop</h1>
+                                <h1>Shoe Repairs {`&`} Footwear Store</h1>
                                 <p className="mb-5 lead">We are SPACIALIZED in shoes-luggages-jackets-sneakers and bags REPAIRS. We clean, dye and recondition all leathers and synthetics goods</p>
                                 <div>
                                     <a href="/products" className="btn btn-white btn-outline-white py-3 px-5 rounded-0 mb-lg-0 mb-2 d-block d-sm-inline-block">Shop Now</a>
