@@ -44,7 +44,7 @@ export default function SingleProduct() {
                         <div className="input-group-prepend">
                             <button className="btn btn-outline-dark js-btn-minus" type="button">−</button>
                         </div>
-                        <input type="text" className="form-control text-center" value="1" placeholder="" aria-label="Example text with button addon" aria-describedby="button-addon1"/>
+                        <input type="text" className="form-control text-center" value="2" placeholder="" aria-label="Example text with button addon" aria-describedby="button-addon1"/>
                         <div className="input-group-append">
                             <button className="btn btn-outline-dark js-btn-plus" type="button">+</button>
                         </div>
